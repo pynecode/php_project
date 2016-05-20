@@ -31,9 +31,7 @@
 
 <?php
 	
-	# Note gor git
-    # Note2 gor git
-	
+
 	// ---------------------Section-1----------------------------//
 		$color = substr(md5(rand()), 0, 6);
 		
